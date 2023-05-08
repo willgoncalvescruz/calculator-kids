@@ -1,11 +1,10 @@
 # calculator_kids
 <h1 align="center">Calculator Kids: </h1>
 <h1 align="center">
-<img alt="Acessar" title="#Acessar" src="./dev_assets/calc.png" width="200"/></h1>
+<img alt="Acessar" title="#Acessar" src="./assets/calc.png" width="200"/></h1>
 <p align="center">🚧  Flutter 🚀 Em construção...  🚧</p>
 <h1 align="center">
 <a href="https://pub.dev/"> Flutter</a></h1>
-<p align="center">🚀 </p>
 <div>    
 
  
@@ -22,7 +21,7 @@
 
  
 ## Descrição
-<p align="center">App para realização de calculos diversos. =>
+<p align="center">App para realização de calculos diversos, com layout atrativo para crianças. =>
 </p>
 
  
@@ -46,6 +45,6 @@ Com este projeto reforcei conceitos de callback, componentização e aproveitame
 
 ### Telas
 <h1 align="center">
-<img alt="1" title="#1" src="./assets/images/1.png" width="200"/>
-<img alt="2" title="#2" src="./assets/images/2.png" width="200"/>
+<img alt="1" title="#1" src="./assets/1.png" width="200"/>
+<img alt="2" title="#2" src="./assets/2.png" width="200"/>
 </h1>
